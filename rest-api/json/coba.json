@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Dimas Suryaputra",
+        "umur" : 18, 
+        "nis" : "0033801279",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gamming" 
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "ujang", 
+            "pembimbimg2" : "UUS"
+        }
+    },
+
+    {
+        "nama" : "Dimas Suryaputra",
+        "umur" : 18, 
+        "nis" : "0033801279",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gamming" 
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "ujang", 
+            "pembimbimg2" : "UUS"
+        }
+    }
+
+]
